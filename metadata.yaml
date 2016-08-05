@@ -1,0 +1,45 @@
+_repo: C.-Sallusti-Crispi-De-Bello-Catilinario-Et-Jugurthino_7402
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sallust
+    alias: Sallustius Crispus, Gaius
+    birthdate: -86
+    deathdate: -34
+    gutenberg_agent_id: '2455'
+    url: http://www.gutenberg.org/2009/agents/2455
+    wikipedia: http://en.wikipedia.org/wiki/Sallust
+  editors:
+  - agent_name: Zumpt, Karl Gottlob
+    aliases:
+    - Zumpt, Carl Gottlob
+    - Zumptius, Carolus Timotheus
+    birthdate: 1792
+    deathdate: 1849
+    gutenberg_agent_id: '34153'
+    url: http://www.gutenberg.org/2009/agents/34153
+    wikipedia: http://en.wikipedia.org/wiki/Karl_Gottlob_Zumpt
+  - agent_name: Schmitz, Leonhard
+    alias: Schmitz, Leonard
+    birthdate: 1807
+    deathdate: 1890
+    gutenberg_agent_id: '34152'
+    url: http://www.gutenberg.org/2009/agents/34152
+description: In Latin with notes in English
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7402'
+language:
+- en
+- la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jugurthine War, 111-105 B.C.'
+- !lcc 'PA'
+- !lcsh 'Rome -- History -- Conspiracy of Catiline, 65-62 B.C.'
+- GITenberg
+title: C. Sallusti Crispi De Bello Catilinario Et Jugurthino
+url: http://www.gutenberg.org/ebooks/7402
